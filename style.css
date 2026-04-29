@@ -6,6 +6,10 @@ h1 {
   text-align: center;
 }
 
+.clickable {
+    cursor: pointer;
+}
+
 .container {
   margin: 0 auto;
   width: 800px;
